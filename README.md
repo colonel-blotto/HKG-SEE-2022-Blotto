@@ -40,5 +40,3 @@ My suggested modified entry is as such.
 | My Entry | 1  | 3  | 3  | 2  | 1  | 23 | 27 | 28 | 6  | 6   |
 
 My general approach was to simulate a number of tournaments consisting of some of the 2022 submissions, some strategies which would outperform the top candidates of the 2022 submissions, and some cleverly chosen deterministic strategies. I chose the strategy that performed the best on average in my simulations.
-
-google-site-verification: googlee4591125e7f34210.html
